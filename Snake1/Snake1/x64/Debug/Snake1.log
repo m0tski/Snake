@@ -1,0 +1,5 @@
+﻿  run.cpp
+C:\Users\tomki\OneDrive\Anlagen\InfoProjekt\Snake1\Snake1\snake.h(105,27): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\tomki\OneDrive\Anlagen\InfoProjekt\Snake1\Snake1\snake.h(106,25): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\tomki\OneDrive\Anlagen\InfoProjekt\Snake1\Snake1\snake.h(107,25): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+  Snake1.vcxproj -> C:\Users\tomki\OneDrive\Anlagen\InfoProjekt\Snake1\x64\Debug\Snake1.exe
